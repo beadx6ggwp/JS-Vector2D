@@ -1,0 +1,8 @@
+{
+  "name": "JS-Vector2D",
+  "version": "1.0.0",
+  "main": "lib/vec.js",
+  "repository": "https://github.com/md9830415/JS-Vector2D.git",
+  "author": "md9830415 <davidhsu666.com@gmail.com>",
+  "license": "MIT"
+}
